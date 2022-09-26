@@ -7,6 +7,13 @@
 <br/>
 
 
+### :earth_americas: Language proficiency :
+ 
+- #### Spanish: Native
+- #### English: Pearson English International Certificate B2
+- #### German: ÖSD Zertifikat A2
+
+
 <!--
 **Ant20ni02/Ant20ni02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
