@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center"> Marco Antonio Gardida Cortés </h1>
+
+<div align = "center">
+  Hello there! My name is Marco, I'm 19 years old and I'm from Mexico. I have always enjoyed logic related problems and that is why I am passionate about programming. I'm currently pursuing a bachelor degree in Computer Science at Tecnológico de Monterrey.
+</div>
+
+<br/>
+
 
 <!--
 **Ant20ni02/Ant20ni02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
