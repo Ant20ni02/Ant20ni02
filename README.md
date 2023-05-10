@@ -1,7 +1,7 @@
 <h1 align="center"> Marco Antonio Gardida Cortés </h1>
 
 <div align = "center">
-  Hello there! My name is Marco, I'm 19 years old and I'm from Mexico. I have always enjoyed logic related problems and that is why I am passionate about programming. I'm currently pursuing a bachelor degree in Computer Science at Tecnológico de Monterrey.
+  Hello there! My name is Marco, I'm 19 years old and I'm from Mexico. I have always enjoyed logic related problems and that is why I am passionate about programming. I'm currently pursuing a Bachelor of Science in Computer Science and Technology at Tecnológico de Monterrey.
 </div>
 
 <br/>
@@ -10,7 +10,7 @@
 ### :earth_americas: Language proficiency :
  
 - #### Spanish: Native
-- #### English: Pearson English International Certificate B2
+- #### English: TOEFL IBT - Test Center 100 (CEFR C1)
 - #### German: ÖSD Zertifikat A2
 
 
