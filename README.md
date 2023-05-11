@@ -70,6 +70,10 @@ I'm 20 years old and I'm from Mexico. I have always enjoyed logic related proble
 </p>
 <hr>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ant20ni02&show_icons=true&locale=en&layout=compact&hide=html,Kotlin" alt="Ant20ni02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ant20ni02&show_icons=true&locale=en" alt="Ant20ni02" /></p>
+
 
 <!--
 **Ant20ni02/Ant20ni02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
