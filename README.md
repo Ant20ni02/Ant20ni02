@@ -1,7 +1,11 @@
 ![me](images/Github.gif)
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/marco-antonio-gardida-cort%C3%A9s-38a3441b5" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/marco-antonio-gardida-cort%C3%A9s-38a3441b5" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"></a></code>
+  &nbsp
+  &nbsp
+  &nbsp
+  <code><a href="antoniogarcort@hotmail.com" title="E-mail"><img width="22" src="images/outlook.svg"></a></code>
 </h5>
 
 <div align = "center">
