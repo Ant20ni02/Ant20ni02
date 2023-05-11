@@ -21,12 +21,6 @@ I'm 20 years old and I'm from Mexico. I have always enjoyed logic related proble
 <h2 align="center">Languages, Frameworks, Tools & Abilities </h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-<p align="center">
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"><code>
@@ -41,6 +35,12 @@ I'm 20 years old and I'm from Mexico. I have always enjoyed logic related proble
   <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
 </p>
 <p align="center">
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+</p>
+<p align="center">
   <code><img title="Windows" height="25" src="images/windows11.svg"></code>
   <code><img title="macOs" height="25" src="images/macos.svg"></code>
   <code><img title="KaliLinux" height="25" src="images/kalilinux.svg"></code>
@@ -50,6 +50,11 @@ I'm 20 years old and I'm from Mexico. I have always enjoyed logic related proble
   <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
   <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
+</p>
+<p align="center">
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Azure" height="25" src="images/azure.svg"></code>
+  <code><img title="AWS" height="25" src="images/aws.svg"></code>
 </p>
 <p align="center">
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
